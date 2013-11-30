@@ -1,1 +1,2 @@
 rev1@remote1
+rev2@remote1
