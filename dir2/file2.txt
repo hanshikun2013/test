@@ -1,2 +1,3 @@
 change@master
-change master2@remote2
+change@remote1
+merged
