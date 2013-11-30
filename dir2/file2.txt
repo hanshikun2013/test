@@ -1,2 +1,6 @@
 change@master
+<<<<<<< HEAD
 change@remote1
+=======
+change master2@remote2
+>>>>>>> refs/remotes/origin/master
